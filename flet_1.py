@@ -12,4 +12,11 @@ x = 10
 print(x - 10)
 
 print('my name is mateo')
+
+ejemplo = 'ejemplo'
+print(ejemplo)
+
+
+
 teo
+
